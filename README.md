@@ -1,4 +1,5 @@
 # meal-fonder
+#site:https://blissful-beaver-61b186.netlify.app/
 #
 this is small app [JavaScript] for meal find meal and random meal
 #
